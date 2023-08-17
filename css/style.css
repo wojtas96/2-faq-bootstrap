@@ -1,0 +1,48 @@
+body {
+    background-color: #ececf5;
+}
+
+.wrap {
+    height: 34.5rem;
+    background-color: #52bffee1;
+    padding: 1rem;
+    margin-top: 10rem;
+    background-color: #fefcfe;
+}
+
+h2 {
+    font-size: 2.0rem;
+    color: #c7c7db;
+}
+
+.separator {
+    background-color: #c7c7db;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    width: 25%;
+    height: 2px; 
+}
+
+.head-font {
+    font-size: 1.5rem;
+    color: #88888a;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn-link {
+    color: #e4b88d;
+}
+
+.btn-link:hover {
+    color: #c1d5d5;
+}
+
+.bd-example {
+    position: relative;
+    padding: 1rem;
+    margin: -1rem -15px 0;
+    background-color: #fefcfe;
+}
